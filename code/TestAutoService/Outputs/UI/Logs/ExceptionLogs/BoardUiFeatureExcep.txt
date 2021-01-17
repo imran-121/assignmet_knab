@@ -1,0 +1,272 @@
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  04  53 19 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 92
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  04  55 02 AM
+=======================================================================
+OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.SendKeys(String text)
+   at TestAutoService.AutoEngine.UI.Logic.Pages.LoginPage.Fn_LoginUser(String userName, String userPass, String url) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\LoginPage.cs:line 54
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 94
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  00 56 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 92
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  02 44 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 92
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  07 48 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 93
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  08 45 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 93
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  08 49 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 93
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  08 52 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 93
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  09 25 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 93
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  09 29 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 93
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  09 33 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 93
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  20  07 35 PM
+=======================================================================
+OpenQA.Selenium.WebDriverTimeoutException: Timed out after 3 seconds
+ ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter list title...' and @type='text']"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at TestAutoService.AutoEngine.UI.Logic.Utilities.UIHelpers.Wait.Fn_ExpWaitUntilElementIsVisible(IWebDriver WebDriver, String xpathStr, Int32 sec) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Utilities\UIHelpers.cs:line 25
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 202
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 357
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  20  42 38 PM
+=======================================================================
+OpenQA.Selenium.WebDriverTimeoutException: Timed out after 3 seconds
+ ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter list title...' and @type='text']"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at TestAutoService.AutoEngine.UI.Logic.Utilities.UIHelpers.Wait.Fn_ExpWaitUntilElementIsVisible(IWebDriver WebDriver, String xpathStr, Int32 sec) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Utilities\UIHelpers.cs:line 25
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 225
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 358
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  20  46 26 PM
+=======================================================================
+OpenQA.Selenium.WebDriverTimeoutException: Timed out after 5 seconds
+ ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter list title...' and @type='text']"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at TestAutoService.AutoEngine.UI.Logic.Utilities.UIHelpers.Wait.Fn_ExpWaitUntilElementIsVisible(IWebDriver WebDriver, String xpathStr, Int32 sec) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Utilities\UIHelpers.cs:line 25
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 225
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 358
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  20  49 54 PM
+=======================================================================
+OpenQA.Selenium.WebDriverTimeoutException: Timed out after 8 seconds
+ ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter list title...' and @type='text']"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at TestAutoService.AutoEngine.UI.Logic.Utilities.UIHelpers.Wait.Fn_ExpWaitUntilElementIsVisible(IWebDriver WebDriver, String xpathStr, Int32 sec) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Utilities\UIHelpers.cs:line 25
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 225
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 358
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  20  51 44 PM
+=======================================================================
+OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+ ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter list title...' and @type='text']"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at TestAutoService.AutoEngine.UI.Logic.Utilities.UIHelpers.Wait.Fn_ExpWaitUntilElementIsVisible(IWebDriver WebDriver, String xpathStr, Int32 sec) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Utilities\UIHelpers.cs:line 25
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 225
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 358
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  20  55 41 PM
+=======================================================================
+OpenQA.Selenium.WebDriverTimeoutException: Timed out after 15 seconds
+ ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter list title...' and @type='text']"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at TestAutoService.AutoEngine.UI.Logic.Utilities.UIHelpers.Wait.Fn_ExpWaitUntilElementIsVisible(IWebDriver WebDriver, String xpathStr, Int32 sec) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Utilities\UIHelpers.cs:line 25
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 225
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 358
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Monday 18 January 2021  01  55 16 AM
+=======================================================================
+OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.SendKeys(String text)
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 227
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 358
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Monday 18 January 2021  02  07 50 AM
+=======================================================================
+OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter list title...' and @type='text']"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.get_webEle_inputBoxList() in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 201
+   at TestAutoService.AutoEngine.UI.Logic.Pages.BoardList.Fn_InsertListName(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\BoardPage.cs:line 227
+   at TestAutoService.AutoEngine.UI.Steps.BoardUiSteps.WhenInsertsListNameInInputList(String listName) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\BoardUiSteps.cs:line 358
+============================== End Log ================================
+
